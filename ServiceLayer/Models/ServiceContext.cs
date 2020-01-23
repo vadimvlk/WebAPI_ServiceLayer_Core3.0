@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace ServiceLayerApi.Models
+namespace ServiceLayer.Models
 {
     public class ServiceContext : DbContext
     {

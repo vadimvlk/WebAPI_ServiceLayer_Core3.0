@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace ServiceLayerApi.Models
+namespace ServiceLayer.Models
 {
     public class UsersData
     {
